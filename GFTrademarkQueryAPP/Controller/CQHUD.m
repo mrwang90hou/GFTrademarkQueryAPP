@@ -49,9 +49,6 @@
     }];
     //[bgView addSubview:totalView];
     
-    
-    
-    
     //提示关注微信号的label
     UILabel *labelWX = [[UILabel alloc]init];
     [labelWX setText:@"关注【国方商标软件】微信公共号"];
